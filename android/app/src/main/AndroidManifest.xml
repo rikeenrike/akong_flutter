@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name.ACCESS_FINE_LOCATION/>
+    <uses-permission android:name.ACCESS_COARSE_LOCATION/>
     <application
         android:label="akong_flutter"
         android:name="${applicationName}"
