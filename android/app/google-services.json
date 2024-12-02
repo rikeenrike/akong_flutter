@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821643765754",
+    "project_id": "payrbays-a58c8",
+    "storage_bucket": "payrbays-a58c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821643765754:android:ac0635b3805c7f457fe643",
+        "android_client_info": {
+          "package_name": "com.example.akong_flutter" 
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-i_aqZvMWgDDxCLo7-wQicRovtbYph08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

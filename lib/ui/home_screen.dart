@@ -9,7 +9,6 @@ import '../provider/profile_provider.dart';
 import 'add_task_screen.dart';
 import 'profile.dart';
 import 'task_detail_screen.dart';
-import '../main.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {
   @override

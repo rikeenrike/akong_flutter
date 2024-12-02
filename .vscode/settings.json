@@ -1,5 +1,6 @@
 {
     "dart.flutterHotReloadOnSave": "all",
     "dart.hotReloadOnSave": "all",
-    "cmake.sourceDirectory": "/Users/ralphenrique/Developer/akong_flutter/linux"
+    "cmake.sourceDirectory": "/Users/ralphenrique/Developer/akong_flutter/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
